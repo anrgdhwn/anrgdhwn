@@ -41,14 +41,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=anrgdhwn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏅 Certifications
 
 ![GH-300](https://img.shields.io/badge/GitHub%20Copilot-GH--300-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
